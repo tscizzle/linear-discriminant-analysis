@@ -1,52 +1,3 @@
-
-Skip to content
-
-    Pull requests
-    Issues
-    Marketplace
-    Explore
-
-    @tscizzle
-
-2,757
-81,606
-
-    39,331
-
-github/gitignore
-Code
-Pull requests 90
-Projects 0
-Insights
-gitignore/Python.gitignore
-@JarryShaw JarryShaw Add ignore rules for Pipenv (#2977) 7079791 23 days ago
-@arcresu
-@shiftkey
-@Lucretiel
-@Harrison-G
-@jwg4
-@GabrielC101
-@Metallicow
-@misaelnieto
-@pmsosa
-@svkampen
-@vltr
-@matheussl
-@hugovk
-@ghisvail
-@EvandroLG
-@DSIW
-@amigcamel
-@toanant
-@2Cubed
-@weinihou
-@Visgean
-@nvie
-@skuschel
-@sigo
-@sethmlarson
-@TwoBitAlchemist
-124 lines (100 sloc) 1.66 KB
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -170,18 +121,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
-    © 2019 GitHub, Inc.
-    Terms
-    Privacy
-    Security
-    Status
-    Help
-
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
