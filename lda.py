@@ -207,7 +207,7 @@ class RandomData(object):
         ax.spines["left"].set_visible(False)
 
         plt.grid()
-        plt.tight_layout
+        plt.tight_layout()
         plt.show()
 
 
